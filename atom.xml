@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>Personal blog</description>
+    <link>
+    https://ukhamitov.github.io</link>
+    
+      
+      <item>
+        <title>Hello world</title>
+        
+          <description>&lt;p&gt;Hi there! This is my first post.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 11 Nov 2020 15:00:00 +0000</pubDate>
+        <link>
+        https://ukhamitov.github.io/hello-world</link>
+        <guid isPermaLink="true">https://ukhamitov.github.io/hello-world</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
