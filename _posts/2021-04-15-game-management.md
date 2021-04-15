@@ -3,8 +3,8 @@ layout: post
 current: post
 navigation: True
 title: Game lists
-date: 2020-11-11 18:00:00 +0300
-tags: [lifestyle]
+date: 2021-04-15 19:00:00 +0300
+tags: [games]
 class: post-template
 subclass: 'post'
 author: ukhamitov
