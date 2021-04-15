@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator>
   <link href="https://ukhamitov.github.io/tag/lifestyle/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://ukhamitov.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-04-15T16:24:02+00:00</updated>
+  <updated>2021-04-15T16:29:00+00:00</updated>
   <id>https://ukhamitov.github.io/tag/lifestyle/feed.xml</id>
 
   
@@ -32,8 +32,8 @@
 
   
     <entry>
-      <title type="html">Hello world</title>
-      <link href="https://ukhamitov.github.io/game-management" rel="alternate" type="text/html" title="Hello world" />
+      <title type="html">Game lists</title>
+      <link href="https://ukhamitov.github.io/game-management" rel="alternate" type="text/html" title="Game lists" />
       <published>2020-11-11T15:00:00+00:00</published>
       <updated>2020-11-11T15:00:00+00:00</updated>
       <id>https://ukhamitov.github.io/game-management</id>
