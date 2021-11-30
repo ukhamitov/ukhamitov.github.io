@@ -10,8 +10,8 @@ subclass: 'post page'
 <p>
 	Tech:
   	<ul>
-		<li><strikeout>Logitech MX Master 3</strikeout></li>
-		<li>Logitech MX Keys or MX Craft</li>
+		<li>Logitech MX Keys or MX Craft keyboard</li>
+		<li>Logitech BRIO Stream or C922 Pro Stream</li>
 		<li>Nest Home Mini</li>
 	</ul>
 </p>
