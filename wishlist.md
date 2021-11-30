@@ -10,8 +10,8 @@ subclass: 'post page'
 <p>
 	Tech:
   	<ul>
-		<li>Logitech MX Master 3</li>
-		<li>Logitech MX Keys</li>
+		<li><strikeout>Logitech MX Master 3</strikeout></li>
+		<li>Logitech MX Keys or MX Craft</li>
 		<li>Nest Home Mini</li>
 	</ul>
 </p>
