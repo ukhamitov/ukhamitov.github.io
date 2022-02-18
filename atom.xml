@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>Personal blog</description>
+    <link>
+    https://ukhamitov.com</link>
+    
+      
+      <item>
+        <title>Game lists</title>
+        
+          <description>&lt;p&gt;Recently I prefer to play video games. When I was a kid I missed a lot of games that were hit. I like different games in different genres, but after а while, I forget about what was the game, liked or not. When friends ask me what I played recently I just don’t remember.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 15 Apr 2021 16:00:00 +0000</pubDate>
+        <link>
+        https://ukhamitov.com/game-management</link>
+        <guid isPermaLink="true">https://ukhamitov.com/game-management</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Hello world</title>
+        
+          <description>&lt;p&gt;Hi there! This is my first post.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 11 Nov 2020 15:00:00 +0000</pubDate>
+        <link>
+        https://ukhamitov.com/hello-world</link>
+        <guid isPermaLink="true">https://ukhamitov.com/hello-world</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
