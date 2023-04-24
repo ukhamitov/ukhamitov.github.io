@@ -8,13 +8,13 @@ class: page-template
 subclass: 'post page'
 ---
 
-I'm an Android developer currently working for [Chaos Control](https://chaos-control.mobi/) as Android & Kotlin developer.
+I'm an Android developer currently working for [Chaos Control](https://chaos-control.mobi/) as Android (Kotlin) and Flutter developer.
 
 <img src="../assets/images/avatar.jpg" alt="My profile pic" style="width:256px;height:256px">
 
 ### About me
 
-My name is Ural Khamitov and I've coded Android apps for ~8 years until today.
+My name is Ural Khamitov and I've coded Android apps for ~11 years until today.
 
 **Contact**
 
