@@ -14,7 +14,7 @@ I'm an Android developer currently working for [Chaos Control](https://chaos-con
 
 ### About me
 
-My name is Ural Khamitov and I've coded Android apps for ~12 years until today.
+My name is Ural Khamitov and I've coded Android apps for ~11 years until today.
 
 **Contact**
 
