@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ukhamitov
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ukhamitov.com
+  * I am ukhamitov (https://keybase.io/ukhamitov) on keybase.
+  * I have a public key ASAqwosnwZKAhwkutCb8gihmvp_qrpomOPq1wtKTTdG84Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202ac28b27c1928087092eb426fc822866be9feaae9a2638fab5c2d2934dd1bce10a",
+      "host": "keybase.io",
+      "kid": "01202ac28b27c1928087092eb426fc822866be9feaae9a2638fab5c2d2934dd1bce10a",
+      "uid": "205ceafabe78dbbfac12b63e00869419",
+      "username": "ukhamitov"
+    },
+    "merkle_root": {
+      "ctime": 1693764747,
+      "hash": "bbeb26fe9c38c52b114b9c45c52543843ee548cd8b5418fc608920f69634d4c1a82eb66a559f06696aceee6d76446889c6c6d92da2df715046c67229bc76248a",
+      "hash_meta": "ab44fedbf3122955cab1e2d7bbb61f813a164b312a64222d963279ebffcd5414",
+      "seqno": 24883346
+    },
+    "service": {
+      "entropy": "i6sVf/9uZw8uKOHFuC68qlmM",
+      "hostname": "ukhamitov.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.1"
+  },
+  "ctime": 1693764844,
+  "expire_in": 504576000,
+  "prev": "04580d525d56d049ba7e002b75958c928b342cfaa20ca5abe6e14f536e2164f7",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKsKLJ8GSgIcJLrQm/IIoZr6f6q6aJjj6tcLSk03RvOEKp3BheWxvYWTESpcCB8QgBFgNUl1W0Em6fgArdZWMkos0LPqiDKWr5uFPU24hZPfEIDxixo2mXY2y9q1qB2JEa0Dpm75QbG9TztwmeR0o9k+YAgHCo3NpZ8RAysS6rFPW7WsC9J1pM3d/6jliC54fHbQPJlODPW5gvpMH5qssB7Pa90uQg4O2XBSJtEcpuB4BKBBwqjQL4drKCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDX+Ec0CGi68ykiQl2n9lQODzJjAlFR93qssMhd5/UzAo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ukhamitov
+
+==================================================================
