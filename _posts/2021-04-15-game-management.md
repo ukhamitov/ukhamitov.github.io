@@ -7,7 +7,7 @@ date: 2021-04-15 19:00:00 +0300
 tags: [games]
 class: post-template
 subclass: 'post'
-# author: [ukhamitov]
+author: ukhamitov
 comments: true
 ---
 
