@@ -7,7 +7,7 @@ date: 2020-11-11 18:00:00 +0300
 tags: [lifestyle]
 class: post-template
 subclass: 'post'
-author: [ukhamitov]
+# author: [ukhamitov]
 comments: true
 ---
 
