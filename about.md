@@ -6,6 +6,7 @@ navigation: true
 logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
+permalink: /about/
 ---
 
 I'm an Android developer currently working for [Chaos Control](https://chaos-control.mobi/) as Android (Kotlin) and Flutter developer.
