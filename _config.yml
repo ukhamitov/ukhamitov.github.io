@@ -30,7 +30,7 @@ disqus_shortname: ukhamitovcom # replace with your disqus username
 #google_analytics: UA-XXX-X # replace with your GA tracking identifier
 
 # Permalinks
-permalink: /:title/
+permalink: /:title
 # permalink: /author/:author/
 # permalink: /tag/:tag
 
