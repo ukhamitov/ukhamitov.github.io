@@ -17,7 +17,7 @@ subclass: 'post page'
         <li>GameBoy Advance SP</li>
         <li>GameBoy Micro</li>
         <li>Nintendo DS</li>
-        <li>Nintendo DSi/li>
+        <li>Nintendo DSi</li>
         <li>Logitech MX Keys or MX Craft keyboard</li>
         <li>Logitech BRIO Stream or C922 Pro Stream</li>
         <li>Nest Home Mini</li>
