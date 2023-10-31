@@ -34,7 +34,7 @@ permalink: /:title
 permalink: /author/:author
 # permalink: /tag/:tag
 
-Authors' info in `_data/authors.yml`
+# Authors' info in `_data/authors.yml`
 # Tags' info in `_data/tags_info.yml`
 
 # gems and other configs
