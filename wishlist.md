@@ -18,9 +18,9 @@ subclass: 'post page'
         <li>GameBoy Micro</li>
         <li>Nintendo DS</li>
         <li>Nintendo DSi</li>
-        <li>Logitech MX Keys or MX Craft keyboard</li>
+        <li><a href="https://www.analogue.co/pocket">Analogue Pocket</a></li>
+        <li><a href="https://play.date">Playdate</a></li>
         <li>Logitech BRIO Stream or C922 Pro Stream</li>
-        <li>Nest Home Mini</li>
     </ul>
 </p>
 <p>
