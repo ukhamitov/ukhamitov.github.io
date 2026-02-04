@@ -2,7 +2,7 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 100 # it will paginate after this number
-language: 'en-us'
+language: "en-us"
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
@@ -36,12 +36,6 @@ defaults:
       type: "posts"
     values:
       permalink: /:title/
-
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      permalink: /author/:author/
 
   - scope:
       path: ""
@@ -88,8 +82,11 @@ repo: ukhamitov.github.io
 branch: source
 relative_source: ../ukhamitov.github.io/
 destination: _site
-production_url:  https://ukhamitov.github.io/
-source_url:  https://github.com/ukhamitov/ukhamitov.github.io
+
+collections:
+  authors:
+    output: true
+    permalink: /author/:name/
 
 exclude:
   - assets/css
