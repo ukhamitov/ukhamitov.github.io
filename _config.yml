@@ -20,7 +20,7 @@ CNAME: ukhamitov.com
 
 # Social info
 navigation: True # show the navbar links
-twitter: ukhamitov # replace by your username
+# twitter: ukhamitov # replace by your username
 
 # Disqus
 disqus: True
@@ -30,7 +30,25 @@ disqus_shortname: ukhamitovcom # replace with your disqus username
 #google_analytics: UA-XXX-X # replace with your GA tracking identifier
 
 # Permalinks
-permalink: /:title
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: /:title/
+
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      permalink: /author/:author/
+
+  - scope:
+      path: ""
+      type: "tags"
+    values:
+      permalink: /tag/:tag/
+# permalink: /:title
 # permalink: /author/:author/
 # permalink: /tag/:tag
 
