@@ -30,19 +30,19 @@ disqus_shortname: ukhamitovcom # replace with your disqus username
 #google_analytics: UA-XXX-X # replace with your GA tracking identifier
 
 # Permalinks
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      permalink: /:title/
+# defaults:
+#   - scope:
+#       path: ""
+#       type: "posts"
+#     values:
+#       permalink: /:title/
 
-  - scope:
-      path: ""
-      type: "tags"
-    values:
-      permalink: /tag/:tag/
-# permalink: /:title
+#   - scope:
+#       path: ""
+#       type: "tags"
+#     values:
+#       permalink: /tag/:tag/
+permalink: /:title
 # permalink: /author/:author/
 # permalink: /tag/:tag
 
